@@ -12,5 +12,5 @@ Usage:
 
 ❯ go run ./cmd/eth-beacon-time --time 1652565600
 
-137713800
+3811800
 ```
